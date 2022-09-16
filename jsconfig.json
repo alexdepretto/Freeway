@@ -1,0 +1,7 @@
+{
+  "include": [
+    "*.js",
+    "libraries/*.js",
+    "c:\\Users\\alex_\\.vscode\\extensions\\samplavigne.p5-vscode-1.2.8\\p5types\\global.d.ts"
+, "js/personagem.js", "js/p5.collide2d.js", "js/imagens.js", "js/Freeway.js", "js/carros.js"  ]
+}
